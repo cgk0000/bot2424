@@ -1,5 +1,10 @@
 {
-    "available": [],
+    "available": [
+                "KCOMCI8",
+                "KOSMD23",
+                "NVMCKD8",
+                "HOKD0"
+    ],
     "used": [
         {
             "codes": [
@@ -14,4 +19,5 @@
             "timestamp": "2025-11-29 21:36:52"
         }
     ]
+
 }
